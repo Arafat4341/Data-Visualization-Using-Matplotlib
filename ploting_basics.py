@@ -16,6 +16,8 @@ y2 = [10, 14, 12]
 plt.plot(x, y, label="First line")
 plt.plot(x2, y2, label="Second line")
 
+plt.title('Interesting graph')
+
 plt.legend()
 
 plt.show()
